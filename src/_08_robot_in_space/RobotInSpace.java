@@ -28,7 +28,7 @@ public class RobotInSpace implements KeyEventDispatcher {
 	private void moveRobot(int keyPressed) throws InterruptedException {
 		// 2. Print out the keyPressed variable and write down the numbers for
 		// each arrow key
-		int keyPressed = 
+		
 
 		// 3. If the up arrow is pressed, move the Robot up the screen.
 
